@@ -3,3 +3,4 @@ injected dist.tex
 spinning followup.tex
 results.tex
 figures/mc-comp1/mass-comps.png
+figures/spinning-masses/spinning-masses.png
