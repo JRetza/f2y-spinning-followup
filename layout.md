@@ -4,6 +4,7 @@ spinning followup.tex
 results.tex
 Mass estimates.tex
 figures/mc-comp1/mass-comps.png
+spin.tex
 figures/spins/spins.png
 figures/mass-snr/mass-snr.png
 figures/spinning-masses/spinning-masses.png
