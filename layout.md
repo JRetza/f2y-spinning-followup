@@ -17,3 +17,4 @@ prior constraints.tex
 figures/mass-ratio/mass-ratio.png
 sky.tex
 figures/sky/sky.png
+conclusions.tex
