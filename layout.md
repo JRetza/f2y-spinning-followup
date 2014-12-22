@@ -9,6 +9,7 @@ figures/compmasses1/compmasses1.png
 spin.tex
 spin estimates.tex
 figures/spins/spins.png
+spin vs non-spin.tex
 figures/mc-comp1/mass-comps.png
 masses.tex
 component masses.tex
