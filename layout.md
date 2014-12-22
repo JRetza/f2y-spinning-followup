@@ -5,6 +5,7 @@ results.tex
 figures/spinning-masses/spinning-masses.png
 figures/mass-snr/mass-snr.png
 component masses1.tex
+figures/compmasses1/compmasses1.png
 figures/mc-comp1/mass-comps.png
 masses.tex
 component masses.tex
