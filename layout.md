@@ -7,6 +7,7 @@ figures/mass-snr/mass-snr.png
 component masses1.tex
 figures/compmasses1/compmasses1.png
 spin.tex
+spin estimates.tex
 figures/spins/spins.png
 figures/mc-comp1/mass-comps.png
 masses.tex
