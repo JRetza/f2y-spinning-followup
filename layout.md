@@ -12,7 +12,7 @@ figures/spins/spins.png
 prior constraints1.tex
 figures/mc-comp1/mass-comps.png
 component masses.tex
-figures/compmasses/compmasses.png
+figures/compmasses/compmasses-comp.png
 prior constraints.tex
 figures/mass-ratio/mass-ratio.png
 sky.tex
