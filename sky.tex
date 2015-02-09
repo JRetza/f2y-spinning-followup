@@ -1,4 +1,10 @@
 \section{Sky localization}
 
-Having discussed how GW observations can measure the intrinsic properties of their source systems, we now consider the measurement of extrinsic parameters such as source location. On their own, these are not useful for understanding the physcis of compact objects, but they are central to the success of multimessenger astronomy.
+Having discussed how GW observations can measure the intrinsic properties of their source systems, we now consider the measurement of extrinsic parameters such as source location. On their own, these are not useful for understanding the physics of compact objects, but they are central to the success of multimessenger astronomy.
 
+We characterize sky localization using credible regions (CRs), the smallest sky area that encompasses a given total posterior probability. The CR for a total posterior probability $p$ is defined as
+\begin{equation}
+\mathrm{CR}_p = \underset{A}{\arg\!\max} \int_A \mathrm{d}\boldsymbol{\Omega} P_{\Omega}(\boldsymbol{\Omega}),
+\label{eq:CR}
+\end{equation}
+where $P_{\Omega}(\boldsymbol{\Omega})$ is the posterior probability density over sky position $\boldsymbol{\Omega}$, and $A$ is the sky area integrated over. We also consider the searched area, the area of the smallest CR that includes the true location.
