@@ -21,3 +21,4 @@ figures/sky/sky.png
 run-by-run.tex
 sky-ratio-table.tex
 conclusions.tex
+summary.tex
