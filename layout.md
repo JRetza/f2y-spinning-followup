@@ -11,7 +11,7 @@ spin.tex
 spin estimates.tex
 figures/spins/spins.png
 prior constraints1.tex
-figures/mc-comp1/mass-comps.png
+figures/mc-comp1/mass_errors.png
 component masses.tex
 figures/compmasses/compmasses-comp.png
 prior constraints.tex
