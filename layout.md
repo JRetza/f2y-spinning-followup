@@ -4,7 +4,6 @@ spinning followup.tex
 results.tex
 figures/spinning-masses/spinning-masses.png
 figures/mass-snr/uncert_snr.png
-figures/sigma_SNR/sigma_SNR.png
 component masses1.tex
 figures/compmasses1/compmasses1.png
 spin.tex
