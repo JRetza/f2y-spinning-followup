@@ -5,7 +5,6 @@ results.tex
 figures/spinning-masses/quad_mass_grid.png
 figures/mass-snr/uncert_snr.png
 component masses1.tex
-figures/compmasses1/compmasses1.png
 spin.tex
 spin estimates.tex
 figures/spins/spins.png
