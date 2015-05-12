@@ -18,7 +18,7 @@ sky.tex
 figures/Fig_spin_sky_area/Fig_spin_sky_area.png
 run-by-run.tex
 sky-ratio-table.tex
-subsection_Distance_label_sec_distance__.tex
+subsection_Luminosity_distance_label_sec__.tex
 figures/Fig_spin_dist/Fig_spin_dist.png
 conclusions.tex
 summary.tex
