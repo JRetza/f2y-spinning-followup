@@ -15,7 +15,6 @@ figures/compmasses/mass_boxes.png
 prior constraints.tex
 figures/mass-ratio/q_cumulatives.png
 sky.tex
-figures/sky/sky.png
 run-by-run.tex
 sky-ratio-table.tex
 conclusions.tex
