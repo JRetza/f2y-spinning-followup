@@ -13,7 +13,7 @@ figures/mc-comp1/mass_errors.png
 component masses.tex
 figures/compmasses/mass_boxes.png
 prior constraints.tex
-figures/mass-ratio/q_cumulatives.png
+figures/mass-ratio/m2_cumulatives.png
 sky.tex
 figures/Fig_spin_sky_area/Fig_spin_sky_area.png
 run-by-run.tex
