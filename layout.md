@@ -1,5 +1,5 @@
-intro.tex
 abstract.tex
+intro.tex
 injected dist.tex
 spinning followup.tex
 results.tex
@@ -24,3 +24,5 @@ figures/Fig_spin_dist/Fig_spin_dist.png
 conclusions.tex
 summary.tex
 appendix_section_Computational_cost_label__.tex
+
+    
