@@ -1,5 +1,5 @@
 intro.tex
-Inspiraling_binary_neutron_stars_are__.tex
+abstract.tex
 injected dist.tex
 spinning followup.tex
 results.tex
