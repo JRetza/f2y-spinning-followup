@@ -5,7 +5,6 @@ spinning followup.tex
 results.tex
 figures/spinning-masses/quad_mass_grid.png
 figures/mass-snr/uncert_snr.png
-component masses1.tex
 spin estimates.tex
 figures/spins/spins.png
 prior constraints1.tex
