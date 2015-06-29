@@ -6,7 +6,6 @@ results.tex
 figures/spinning-masses/quad_mass_grid.png
 figures/mass-snr/uncert_snr.png
 figures/Fig_Mc_q_SNR1/Fig_Mc_q_SNR1.png
-figures/Fig_Mc_q_SNR/Fig_Mc_q_SNR.png
 spin estimates.tex
 figures/spins/spins.png
 prior constraints1.tex
@@ -26,3 +25,4 @@ summary.tex
 appendix_section_Computational_cost_label__.tex
 
     
+  
