@@ -8,6 +8,7 @@ figures/mass-snr/uncert_snr.png
 figures/Fig_Mc_q_SNR1/Fig_Mc_q_SNR1.png
 spin estimates.tex
 figures/spins/spins.png
+figures/spin_cred_regions/spin_cred_regions.png
 prior constraints1.tex
 figures/mc-comp1/mass_errors.png
 component masses.tex
