@@ -4,7 +4,6 @@ injected dist.tex
 spinning followup.tex
 results.tex
 figures/spinning-masses/quad_mass_grid.png
-figures/mass-snr/uncert_snr.png
 figures/Fig_Mc_q_SNR1/Fig_Mc_q_SNR1.png
 spin estimates.tex
 figures/spins/spins.png
@@ -26,4 +25,5 @@ summary.tex
 appendix_section_Computational_cost_label__.tex
 
     
+  
   
