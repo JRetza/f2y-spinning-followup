@@ -13,9 +13,10 @@ where $P_{\Omega}(\boldsymbol{\Omega})$ is the posterior PDF over sky position $
 
 In order for EM observatories to follow-up a GW detection, they need an accurate sky location. This must be provided promptly, while there is still a visible transient. Parameter estimation while accounting for spin is computationally expensive and slow to complete. There are alternative methods that can provide sky localization more quickly. The most expedient is \textsc{bayestar}, which uses output from the detection pipeline to rapidly compute sky position \citep{Singer_2014}. \textsc{bayestar} can compute sky positions with a latency of $\sim30~\mathrm{s}$ \citep{Berry_2014}. Between the low-latency \textsc{bayestar} and the high-latency full parameter estimation, there is the medium-latency option of performing non-spinning parameter estimation with computationally cheap TaylorF2 waveforms. This requires hours of wall time to complete analyses, with the exact time depending upon the degree of parallelization. Despite only using information from the detection triggers, rather than full waveforms, it has been shown that \textsc{bayestar} produces sky areas fully consistent with non-spinning parameter estimation results, provided that there was a trigger from all detectors in the network \citep{Singer_2014,Berry_2014}. Having now performed a full spinning analysis, we can compare the results of high-latency parameter estimation with the more expedient methods of inferring sky position.
 
-In Figure~\ref{fig:sky} we show the cumulative distributions of recovered $50\%$ credible regions, $90\%$ credible regions, and searched areas. All three quantities show good agreement across all parameter estimation techniques. %\footnote{Performing a Kolmogorov--Smirnov test gives some number, which will be added later.}
+In Figure~\ref{fig:sky} we show the cumulative distributions of recovered $50\%$ credible regions, $90\%$ credible regions, and searched areas. All three quantities show good agreement across all parameter-estimation techniques. %\footnote{Performing a Kolmogorov--Smirnov test gives some number, which will be added later.}
 Including spin in the analysis does not change the average ability to localize sources on the sky for the slowly-spinning sources considered here.
 
+  
   
   
   
