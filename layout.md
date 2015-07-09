@@ -15,7 +15,6 @@ figures/compmasses/mass_boxes.png
 prior constraints.tex
 figures/mass-ratio/m2_cumulatives.png
 sky.tex
-figures/Fig_spin_sky_area/Fig_spin_sky_area.png
 figures/Fig_3_sky_areas/Fig_3_sky_areas.png
 run-by-run.tex
 sky-ratio-table.tex
@@ -26,5 +25,6 @@ summary.tex
 appendix_section_Computational_cost_label__.tex
 
     
+  
   
   
