@@ -16,6 +16,7 @@ prior constraints.tex
 figures/mass-ratio/m2_cumulatives.png
 sky.tex
 figures/Fig_spin_sky_area/Fig_spin_sky_area.png
+figures/Fig_3_sky_areas/Fig_3_sky_areas.png
 run-by-run.tex
 sky-ratio-table.tex
 subsection_Luminosity_distance_label_sec__.tex
