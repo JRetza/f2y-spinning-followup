@@ -24,6 +24,7 @@ conclusions.tex
 summary.tex
 acknowledgements_The_authors_are_grateful__.tex
 appendix_section_Computational_cost_label__.tex
+figures/Fig_final_time_hist1/Fig_final_time_hist1.png
     
   
   
