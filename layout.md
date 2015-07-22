@@ -22,6 +22,7 @@ subsection_Luminosity_distance_label_sec__.tex
 figures/Fig_spin_dist/Fig_spin_dist.png
 conclusions.tex
 summary.tex
+acknowledgements_The_authors_are_grateful__.tex
 appendix_section_Computational_cost_label__.tex
 
     
