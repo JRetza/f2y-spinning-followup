@@ -1,4 +1,3 @@
-figures/spin_cred_regions1/spin_cred_regions1.png
 abstract.tex
 intro.tex
 injected dist.tex
