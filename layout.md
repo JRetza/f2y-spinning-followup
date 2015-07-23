@@ -4,7 +4,6 @@ injected dist.tex
 spinning followup.tex
 results.tex
 figures/spinning-masses/quad_mass_grid.png
-figures/Fig_Mc_q_SNR1/Fig_Mc_q_SNR1.png
 figures/Fig_mass_SNR/Fig_mass_SNR.png
 spin estimates.tex
 figures/spin_cred_regions/spin_cred_regions.png
