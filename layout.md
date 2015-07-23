@@ -8,7 +8,6 @@ figures/Fig_mass_SNR/Fig_mass_SNR.png
 spin estimates.tex
 figures/spin_cred_regions/spin_cred_regions.png
 prior constraints1.tex
-figures/mc-comp1/mass_errors.png
 figures/Fig_mass_fractional/Fig_mass_fractional.png
 component masses.tex
 figures/compmasses/mass_boxes.png
