@@ -22,7 +22,7 @@ figures/Fig_spin_dist/Fig_spin_dist.png
 conclusions.tex
 summary.tex
 acknowledgements_The_authors_are_grateful__.tex
-appendix_section_Computational_cost_label__.tex
+spinni_appendix_section_Computational_cost__.tex
 figures/Fig_final_time_hist1/Fig_final_time_hist.png
     
   
