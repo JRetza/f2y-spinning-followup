@@ -1,4 +1,4 @@
-spinni\appendix
+\appendix
 
 \section{Computational cost}\label{ap:CPU}
 
@@ -9,6 +9,7 @@ In figure \ref{fig:wall-time}, we present the approximate wall time taken for an
 The times shown in figure \ref{fig:wall-time} illustrate the hierarchy of times associated with different analyses. However, they should not be used as exact benchmarks for times expected during the first observing run of aLIGO because the version of \textsc{LALInference} used here are not the most up-to-date versions. Following the detection pipeline identifying a candidate BNS signal, we expect \textsc{bayestar} results with latency of a few seconds, non-spinning \textsc{LALInference} results with a latency of a few hours, and fully spinning \textsc{LALInference} results only after weeks of computation. 
 
 While work is underway to improve the latency of and to optimize parameter estimation with \textsc{LALInference}, there is also the possibility of developing new algorithms that provide parameter estimates with lower latency \citep{Haster_2015,Pankow:2015cra}. Improving computational efficiency is important for later observing runs with the advanced-detector network: as sensitivities improve and lower frequencies can be measured, we need to calculate longer waveforms (at even greater expense).
+  
   
   
   
