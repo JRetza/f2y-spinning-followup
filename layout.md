@@ -16,7 +16,7 @@ figures/mass-ratio/m2_cumulatives.png
 sky_localization.tex
 figures/Fig_3_sky_areas/Fig_3_sky_areas.png
 run-by-run_skyareas.tex
-sky-ratio-table.tex
+paper-sky-ratio-table.tex
 luminosity_distance.tex
 figures/Fig_spin_dist/Fig_spin_dist.png
 summary.tex
