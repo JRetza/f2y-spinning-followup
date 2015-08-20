@@ -2,7 +2,7 @@ abstract.tex
 introduction.tex
 sources.tex
 spinning_analysis.tex
-results.tex
+spinning_mass_estimates.tex
 figures/spinning-masses/quad_mass_grid.png
 figures/Fig_mass_SNR/Fig_mass_SNR.png
 spin estimates.tex
