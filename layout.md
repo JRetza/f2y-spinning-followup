@@ -21,5 +21,5 @@ luminosity_distance.tex
 figures/Fig_spin_dist/Fig_spin_dist.png
 summary.tex
 acknowledgements.tex
-appendix_computational_cost.tex
+computational_cost.tex
 figures/Fig_final_time_hist1/Fig_final_time_hist.png
