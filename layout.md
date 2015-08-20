@@ -9,7 +9,7 @@ spin_estimates.tex
 figures/spin_cred_regions/spin_cred_regions.png
 spin_priors.tex
 figures/Fig_mass_fractional/Fig_mass_fractional.png
-component masses.tex
+component_masses.tex
 figures/compmasses/mass_boxes.png
 prior constraints.tex
 figures/mass-ratio/m2_cumulatives.png
