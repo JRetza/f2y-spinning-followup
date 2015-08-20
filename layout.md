@@ -1,6 +1,6 @@
 abstract.tex
 introduction.tex
-injected dist.tex
+sources.tex
 spinning followup.tex
 results.tex
 figures/spinning-masses/quad_mass_grid.png
