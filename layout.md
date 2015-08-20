@@ -23,9 +23,3 @@ summary.tex
 acknowledgements.tex
 computational_cost.tex
 figures/Fig_final_time_hist1/Fig_final_time_hist.png
-    
-  
-  
-  
-
-
