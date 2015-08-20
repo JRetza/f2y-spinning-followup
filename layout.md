@@ -11,7 +11,7 @@ spin_priors.tex
 figures/Fig_mass_fractional/Fig_mass_fractional.png
 component_masses.tex
 figures/compmasses/mass_boxes.png
-prior constraints.tex
+mass_ratio.tex
 figures/mass-ratio/m2_cumulatives.png
 sky.tex
 figures/Fig_3_sky_areas/Fig_3_sky_areas.png
