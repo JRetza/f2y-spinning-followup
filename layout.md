@@ -1,5 +1,5 @@
 abstract.tex
-intro.tex
+introduction.tex
 injected dist.tex
 spinning followup.tex
 results.tex
