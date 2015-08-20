@@ -13,7 +13,7 @@ component_masses.tex
 figures/compmasses/mass_boxes.png
 mass_ratio.tex
 figures/mass-ratio/m2_cumulatives.png
-sky.tex
+sky_localization.tex
 figures/Fig_3_sky_areas/Fig_3_sky_areas.png
 run-by-run.tex
 paper-sky-ratio-table.tex
