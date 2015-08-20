@@ -7,7 +7,7 @@ figures/spinning-masses/quad_mass_grid.png
 figures/Fig_mass_SNR/Fig_mass_SNR.png
 spin_estimates.tex
 figures/spin_cred_regions/spin_cred_regions.png
-prior constraints1.tex
+spin_priors.tex
 figures/Fig_mass_fractional/Fig_mass_fractional.png
 component masses.tex
 figures/compmasses/mass_boxes.png
