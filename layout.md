@@ -12,7 +12,7 @@ figures/mass_fractional/mass_fractional.png
 component_masses.tex
 figures/mass_comp/mass_comp.png
 mass_ratio.tex
-figures/mass-ratio/m2_cumulatives.png
+figures/mass_secondary/mass_secondary.png
 sky_localization.tex
 figures/sky_areas/sky_areas.png
 run-by-run_skyareas.tex
