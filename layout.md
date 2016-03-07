@@ -10,7 +10,7 @@ figures/spin_cred_regions/spin_cred_regions.png
 spin_priors.tex
 figures/mass_fractional/mass_fractional.png
 component_masses.tex
-figures/compmasses/mass_boxes.png
+figures/mass_comp/mass_comp.png
 mass_ratio.tex
 figures/mass-ratio/m2_cumulatives.png
 sky_localization.tex
