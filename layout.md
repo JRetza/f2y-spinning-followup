@@ -8,7 +8,7 @@ figures/mass_snr/mass_snr.png
 spin_estimates.tex
 figures/spin_cred_regions/spin_cred_regions.png
 spin_priors.tex
-figures/Fig_mass_fractional/Fig_mass_fractional.png
+figures/mass_fractional/mass_fractional.png
 component_masses.tex
 figures/compmasses/mass_boxes.png
 mass_ratio.tex
