@@ -4,7 +4,7 @@ sources.tex
 spinning_analysis.tex
 mass_estimates.tex
 figures/spinning-masses/quad_mass_grid.png
-figures/Fig_mass_SNR/Fig_mass_SNR.png
+figures/mass_snr/mass_snr.png
 spin_estimates.tex
 figures/spin_cred_regions/spin_cred_regions.png
 spin_priors.tex
