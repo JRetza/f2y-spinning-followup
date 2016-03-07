@@ -18,7 +18,7 @@ figures/sky_areas/sky_areas.png
 run-by-run_skyareas.tex
 sky-ratio-table.tex
 luminosity_distance.tex
-figures/Fig_spin_dist/Fig_spin_dist.png
+figures/spin_dist/spin_dist.png
 summary.tex
 acknowledgements.tex
 computational_cost.tex
