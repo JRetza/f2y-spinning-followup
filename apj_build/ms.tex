@@ -1,104 +1,113 @@
+\documentclass[iop,apj,twocolumn,twocolappendix,numberedappendix]{emulateapj}
+\usepackage{apjfonts}
+\usepackage{multirow}
+\usepackage{textcomp}
+\usepackage{amsmath}
+\usepackage{microtype}
+\usepackage{subfigure}
+\usepackage{xcolor,ulem}
+\usepackage[breaklinks=true]{hyperref}
 
-\input{preamble}
-
-\input{header}
-
+%@arxiver{mass_boxes,Fig_mass_SNR,spin_cred_regions}
 
 \begin{document}
 
-\title{Parameter estimation on gravitational waves from neutron-star binaries with spinning components
-}
-\input{posttitle}
+\title{Parameter estimation on gravitational waves from neutron-star binaries with spinning components}
 
-\input{abstract}
-\input{introduction}
-\input{sources}
+\slugcomment{Submitted to ApJ}
 
-\begin{figure*}
-\begin{center}
-\includegraphics[width=1.6\columnwidth]{mass_pdf_cdfmass_pdf_cdf}
-\caption{ \protect\input{mass_pdf_cdf-caption.tex}}
-\end{center}
-\end{figure*}
+\input{"authorlist.tex"}
 
-\input{spinning_analysis}
-\input{mass_estimates}
+\shorttitle{PE on GWs from BNSs with spinning components}
+\shortauthors{Farr et al.}
 
-\begin{figure}
-\begin{center}
-\includegraphics[width=.98\columnwidth]{mass_snrmass_snr}
-\caption{ \protect\input{mass_snr-caption.tex}}
-\end{center}
-\end{figure}
+\input{"abstract.tex"}
 
-\input{spin_estimates}
+\input{"introduction.tex"}
 
-\begin{figure}
-\begin{center}
-\includegraphics[width=.98\columnwidth]{spin_cred_regionsspin_cred_regions}
-\caption{ \protect\input{spin_cred_regions-caption.tex}}
-\end{center}
-\end{figure}
+\input{"sources.tex"}
 
-\input{spin_priors}
+\input{"spinning_analysis.tex"}
 
-\begin{figure}
-\begin{center}
-\includegraphics[width=.98\columnwidth]{mass_fractionalmass_fractional}
-\caption{ \protect\input{mass_fractional-caption.tex}}
-\end{center}
-\end{figure}
-
-\input{component_masses}
-
-\begin{figure}
-\begin{center}
-\includegraphics[width=.98\columnwidth]{mass_compmass_comp}
-\caption{ \protect\input{mass_comp-caption.tex}}
-\end{center}
-\end{figure}
-
-\input{mass_ratio}
-
-\begin{figure}
-\begin{center}
-\includegraphics[width=.98\columnwidth]{mass_secondarymass_secondary}
-\caption{ \protect\input{mass_secondary-caption.tex}}
-\end{center}
-\end{figure}
-
-\input{sky_localization}
-
-\begin{figure}
-\begin{center}
-\includegraphics[width=.98\columnwidth]{sky_areassky_areas}
-\caption{ \protect\input{sky_areas-caption.tex}}
-\end{center}
-\end{figure}
-
-\input{run-by-run_skyareas}
-\input{paper-sky-ratio-table}
-\input{luminosity_distance}
+\input{"mass_estimates.tex"}
 
 \begin{figure*}
-\begin{center}
-\includegraphics[width=1.6\columnwidth]{spin_distspin_dist}
-\caption{ \protect\input{spin_dist-caption.tex}}
-\end{center}
+  \centering
+  \includegraphics[width=1.6\columnwidth]{mass_pdf_cdfmass_pdf_cdf}
+  \caption{\protect\input{mass_pdf_cdf-caption.tex}}
 \end{figure*}
 
-\input{summary}
-\input{acknowledgements}
-\input{computational_cost}
-
 \begin{figure}
-\begin{center}
-\includegraphics[width=.6\columnwidth]{time_histtime_hist}
-\caption{ \protect\input{time_hist-caption.tex}}
-\end{center}
+  \centering
+  \includegraphics[width=0.85\columnwidth]{mass_snrmass_snr}
+  \caption{\protect\input{mass_snr-caption.tex}}
 \end{figure}
 
+\input{"spin_estimates.tex"}
 
-\bibliography{biblio}{}
+\begin{figure}
+  \centering
+  \includegraphics[width=0.95\columnwidth]{spin_cred_regionsspin_cred_regions}
+  \caption{\protect\input{spin_cred_regions-caption.tex}}
+\end{figure}
+
+\input{"spin_priors.tex"}
+
+\begin{figure}
+  \centering
+  \includegraphics[width=0.85\columnwidth]{mass_fractionalmass_fractional}
+  \caption{\protect\input{mass_fractional-caption.tex}} 
+\end{figure}
+
+\input{"component_masses.tex"}
+
+\begin{figure}
+  \centering
+  \includegraphics[width=1.0\columnwidth]{mass_compmass_comp}
+  \caption{\protect\input{mass_comp-caption.tex}}
+\end{figure}
+
+\input{"mass_ratio.tex"}
+
+\begin{figure}
+  \centering
+  \includegraphics[width=0.95\columnwidth]{mass_secondarymass_secondary}
+  \caption{\protect\input{mass_secondary-caption.tex}}
+\end{figure}
+
+\input{"sky_localization.tex"}
+
+\begin{figure}
+  \centering
+  \includegraphics[width=0.85\columnwidth]{sky_areassky_areas}
+  \caption{\protect\input{sky_areas-caption.tex}}
+\end{figure}
+
+\input{"run-by-run_skyareas.tex"}
+
+\input{"paper-sky-ratio-table.tex"}
+
+\input{"luminosity_distance.tex"}
+
+\begin{figure*}
+  \centering
+  \includegraphics[width=1.7\columnwidth]{spin_distspin_dist}
+  \caption{\protect\input{spin_dist-caption.tex}}
+\end{figure*}
+
+\input{"summary.tex"}
+
+\input{"acknowledgements.tex"}
+
+\input{"computational_cost.tex"}
+
+\begin{figure}
+  \centering
+  \includegraphics[width=0.95\columnwidth]{time_histtime_hist}
+  \caption{\protect\input{time_hist-caption.tex}}
+\end{figure}
+
+\bibliographystyle{apj}
+\bibliography{bibliography/biblio} 
 
 \end{document}
