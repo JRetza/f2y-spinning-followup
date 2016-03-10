@@ -67,7 +67,7 @@ now been released we have updated some of the language.
 
 The second sentence of the abstract has been change to:
 "We investigate how well we could hope to measure properties of these binaries
-using the advanced LIGO detectors, which began operation in September 2015"
+using the Advanced LIGO detectors, which began operation in September 2015."
 
 ## Introduction
 
@@ -88,7 +88,7 @@ summarized the skewed nature of the mass-ratio PDFs shown in Fig. 1, and makes
 it clear that the posterior PDFs have support at the simulated values.
 
 The caption has been updated to reflect this change:
-"Approximate 90% credible regions for the component-mass estimates of 5
+"Approximate 90% credible regions for the component-mass esti- mates of 5
 selected simulations from the spinning analysis; each region is the projection
 of a rectangular region of chirp-mass–mass-ratio space, bounded by the central
 90% credible interval in chirp-mass and upper 90% credible interval in
@@ -99,16 +99,16 @@ maximum spin of NSs."
 
 and a paragraph has been added to sec. 3.3 that justifies these choices:
 "Figure 5 compares cartoon 90% credible regions in component-mass space of 5
-chosen simulated signals (cf. Hannam 2013, Chatziioannou 2015). As a
-consequence of the difficulty of estimating the narrow and nonlinearly
-correlated credible regions in m1–m2 space, we illustrate the credible regions
-in m1–m2 space as the projection of a rectangular region in Mc–q space. To
-define the rectangular region we use 90% credible intervals of the 1-D
-posterior PDFs of Mc and q; for Mc we use the central 90% credible interval
-(5th to 95th percentile), and for q the upper 90% credible interval (10th to
-100th percentile). These differing credible intervals were chosen to better
-summarize the 1-D posterior PDFs, which are typically normal for Mc and skewed
-toward high values for q (see figure 1)."
+chosen simulated signals (Hannam et al. 2013; Chatziioannou et al. 2015, cf.).
+As a consequence of the difficulty of estimating the narrow and nonlinearly
+cor- related credible regions in m1–m2 space, we illustrate the cred- ible
+regions in m1–m2 space as the projection of a rectangular region in Mc–q space.
+To define the rectangular region we use 90% credible intervals of the
+one-dimensional posterior PDFs of Mc and q; for Mc we use the central 90%
+credi- ble interval (5th to 95th percentile), and for q the upper 90% credible
+interval (10th to 100th percentile). These differing credible intervals were
+chosen to better summarize the one- dimensional posterior PDFs, which are
+typically normal for Mc and skewed toward high values for q (see figure 1)."
 
 
 ## Conclusions
@@ -121,8 +121,8 @@ A statement has been added to the very end of the paper acknowledging that the
 era of gravitational wave astronomy has begun with GW150914:
 
 "Following the submission of this article, aLIGO made its first detection
-(Abbott et al., 2016). This was of a binary BH system (Abbott et al., 2016a)
+(Abbott et al. 2016b). This was of a binary BH system (Abbott et al. 2016c)
 rather than a BNS, but much of our understanding of the abilities of the
 parameter-estimation analysis, such as the effects of mass–spin degeneracy,
-translates between sources. The era of GW astronomy has begun, and parameter
+trans- lates between sources. The era of GW astronomy has begun, and parameter
 estimation will play a central role in the science to come."
